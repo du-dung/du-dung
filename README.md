@@ -1,4 +1,15 @@
 ### Hi there 👋 &nbsp;I'm Hyejin!
+I want to be a backend developer. <br>
+[Here](https://hyejin.page.link/portfolio) is my portfolio!
+
+I can work with `Springboot`, `Mybatis` and RDBMS like `MariaDB`, `MySQL`. <br>
+And I can do the frontend with `vue.js`, but I'm not good at it.
+
+I'm currently working on some projects while studying at SSAFY.
+
+### 🌱 I’m currently learning ...
+- SpringBoot
+- RestAPI
 
 ![du-dung's github stats](https://github-readme-stats.vercel.app/api?username=du-dung&count_private=true&theme=vue&show_icons=true)
 
